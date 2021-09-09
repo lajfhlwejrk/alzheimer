@@ -27,3 +27,5 @@ pip install -r requirements.txt
 python train.py
 ```
 
+you could download the final data set from google drive [`HERE`]().
+
