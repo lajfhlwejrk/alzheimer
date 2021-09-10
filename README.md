@@ -3,6 +3,7 @@
 `train/MRI/AD` for example
 
 - adaptive roi crop 
+- resize to 256x256 and fill background with black
 - denoise
 - randomly rotate / filp / brightness / contrast to extended data set
 
